@@ -1,3 +1,4 @@
+package edu.mariofpn.estudos;
 public class BoletimStudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
