@@ -1,3 +1,5 @@
+package edu.mariofpn.estudos;
+
 public class MinhaClasse {
 
 public static void main(String[] args) {
